@@ -14,7 +14,7 @@ Projeto de análise exploratória de dados (EDA) com Pandas, usando um conjunto 
 
 - `vendas.csv`: Dados simulados de vendas
 - `analise_vendas.ipynb`: Notebook com código de análise
-- (opcional) `analise_vendas.pdf`: Versão exportada do notebook
+- `analise_vendas.pdf`: Versão exportada do notebook
 
 ## 📌 Aprendizados aplicados
 
