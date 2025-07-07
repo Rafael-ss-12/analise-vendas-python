@@ -1,5 +1,12 @@
 # 📊 Análise de Vendas com Python
 
+## 📘 Acesse no Google Colab
+
+Você pode visualizar e executar este notebook diretamente no Google Colab:
+
+[🔗 Abrir notebook no Colab](https://colab.research.google.com/github/Rafael-ss-12/analise-vendas-python/blob/main/analise_vendas.ipynb)
+
+
 Projeto de análise exploratória de dados (EDA) com Pandas, usando um conjunto simulado de vendas. Ideal para portfólio e demonstração de habilidades em manipulação de dados e visualização.
 
 ## 🧰 Tecnologias utilizadas
