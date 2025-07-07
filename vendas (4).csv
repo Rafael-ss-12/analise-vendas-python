@@ -1,0 +1,51 @@
+order_id,product,quantity,price,total,date,region
+1001,Almond Milk,4,27.96,111.84,2025-06-13,Southeast
+1002,Almond Milk,3,19.58,58.74,2025-03-16,South
+1003,Whey Protein,2,12.05,24.1,2025-05-28,North
+1004,Whey Protein,3,29.68,89.04,2025-06-22,Central-West
+1005,Whey Protein,2,12.75,25.5,2025-03-23,North
+1006,Peanut Butter,4,19.0,76.0,2025-01-08,Southeast
+1007,Almond Milk,3,20.27,60.81,2025-02-20,South
+1008,Whey Protein,4,16.07,64.28,2025-04-10,Central-West
+1009,Peanut Butter,1,25.13,25.13,2025-04-05,Central-West
+1010,Protein Bar,1,22.99,22.99,2025-03-20,Northeast
+1011,Protein Bar,5,17.34,86.7,2025-06-28,Southeast
+1012,Oats,3,22.59,67.77,2025-06-02,North
+1013,Oats,5,10.54,52.7,2025-06-11,South
+1014,Whey Protein,4,7.28,29.12,2025-02-28,Southeast
+1015,Whey Protein,4,7.73,30.92,2025-04-03,Central-West
+1016,Peanut Butter,1,18.69,18.69,2025-03-11,Central-West
+1017,Oats,5,18.68,93.4,2025-04-24,Southeast
+1018,Almond Milk,1,19.91,19.91,2025-06-23,Northeast
+1019,Peanut Butter,5,11.05,55.25,2025-06-26,South
+1020,Oats,2,5.82,11.64,2025-02-12,Southeast
+1021,Almond Milk,1,7.25,7.25,2025-04-09,South
+1022,Oats,1,26.06,26.06,2025-01-28,Central-West
+1023,Almond Milk,5,11.89,59.45,2025-02-24,South
+1024,Oats,5,25.63,128.15,2025-01-28,Northeast
+1025,Whey Protein,3,16.26,48.78,2025-05-27,Southeast
+1026,Protein Bar,3,20.32,60.96,2025-01-19,Northeast
+1027,Whey Protein,3,26.13,78.39,2025-05-01,South
+1028,Protein Bar,3,7.93,23.79,2025-06-05,South
+1029,Peanut Butter,2,13.31,26.62,2025-02-18,North
+1030,Protein Bar,2,26.38,52.76,2025-06-26,South
+1031,Protein Bar,5,20.86,104.3,2025-04-14,Central-West
+1032,Whey Protein,1,5.67,5.67,2025-05-17,South
+1033,Whey Protein,5,7.99,39.95,2025-06-07,North
+1034,Peanut Butter,1,5.91,5.91,2025-04-27,North
+1035,Oats,2,22.95,45.9,2025-06-25,Northeast
+1036,Oats,1,28.42,28.42,2025-01-29,North
+1037,Whey Protein,4,20.51,82.04,2025-03-02,Southeast
+1038,Protein Bar,2,6.8,13.6,2025-01-20,Southeast
+1039,Peanut Butter,4,9.51,38.04,2025-05-22,Central-West
+1040,Almond Milk,1,19.91,19.91,2025-01-15,Northeast
+1041,Oats,3,13.96,41.88,2025-06-24,Northeast
+1042,Whey Protein,2,22.44,44.88,2025-06-15,South
+1043,Protein Bar,2,26.14,52.28,2025-05-13,Southeast
+1044,Whey Protein,3,7.93,23.79,2025-03-06,Northeast
+1045,Oats,1,16.79,16.79,2025-04-02,Northeast
+1046,Whey Protein,5,27.94,139.7,2025-04-19,Southeast
+1047,Almond Milk,3,8.84,26.52,2025-01-20,North
+1048,Almond Milk,1,13.4,13.4,2025-03-10,North
+1049,Whey Protein,3,8.37,25.11,2025-03-26,Northeast
+1050,Peanut Butter,5,12.2,61.0,2025-03-03,Southeast
